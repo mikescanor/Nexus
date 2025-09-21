@@ -157,3 +157,6 @@ Run it:
 ---
 
 ✨ That’s it! You’re running Nexus nodes with `systemd`.  
+
+## 📖 Note
+Nodes currently acting up, will get a fix soon
